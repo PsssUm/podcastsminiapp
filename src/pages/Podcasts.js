@@ -2,6 +2,7 @@ import React from 'react';
 import NewsItem from './custom_views/NewsItem';
 import '../resources/styles/news.css'
 import PodcastItem from './custom_views/PodcastItem';
+import { getEpmtyModel } from '../utils/Utils';
 class Podcasts extends React.Component {
    
     constructor(props){
