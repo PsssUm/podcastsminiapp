@@ -1,0 +1,78 @@
+.wave_container{
+    background: white;
+    /* border: 0.5px solid rgba(0, 0, 0, 0.12); */
+    box-shadow: 0px 0px 1.2px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    height: 182px;
+    width: calc(100% - 24px);
+    margin: 20px 12px 12px 12px;
+    position: relative;
+}
+.edit_waves{
+    height: 122px;
+}
+.space_beetwen_controlls{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+.controlls_icon{
+    height: 44px;
+    width: 44px;
+}
+.controlls_icon_right{
+    margin-right: 4px;
+}
+.timecodes_title{
+    font-size: 13px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #818C99;
+    margin-top: 26px;
+    font-family: SF-Semibold;
+    margin-bottom: 10px;
+}
+.container_edit{
+    padding: 0px 12px 0px 12px;
+}
+.add_timecode_container{
+    
+    display: flex;
+}
+.add_timecode_icon{
+    margin: 12px 12px 12px 0px;
+}
+.add_timecode_text{
+    font-size: 16px;
+    line-height: 20px;
+    color: #3F8AE0;
+    margin-top: 12px;
+}
+
+.timecodes_description{
+    margin: 0px 12px 0px 12px;
+    font-size: 13px;
+    line-height: 16px;
+    color: #818C99;
+    margin-bottom: 24px;
+    margin-top: 8px;
+}
+.timecode_item_container{
+    padding: 12px 0px;
+    display: flex;
+}
+.remove_icon_timecode{
+    width: 24px;
+    height: 24px;
+    margin: 12px 12px 12px 0px;
+}
+.timecode_time_input{
+    width: 76px;
+    margin-left: 12px;
+    height: 44px;
+}   
+.timecode_name_input{
+    width: calc(100vw - 144px);
+    height: 44px;
+}
+

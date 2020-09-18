@@ -1,0 +1,257 @@
+
+  .detail_img-responsive {
+    height: 140px; 
+    width: 100%; 
+    object-fit: cover
+  }
+
+  .main_content_details_texts{
+    margin: 16px 12px 8px 12px;
+  }
+  .main_content_details{
+      display : block
+  }
+
+
+  .detail_title{
+    margin: 0px 0px 0px 0px;
+    text-align: left;
+    font-size: 24px;
+    line-height: 20px;
+    font-family: SF-Bold;
+    color: #000000;
+  }
+  .detail_author{
+    margin: 4px 0px 0px 0px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Medium;
+    color: #6D7885;
+  }
+  .detail_date{
+    margin: 4px 0px 0px 0px;
+    text-align: left;
+    font-size: 13px;
+    line-height: 16px;
+    font-family: SF-Regular;
+    color: #818C99;
+  }
+  .detail_date2{
+    margin: 4px 0px 0px 0px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: SF-Regular;
+    color: #000000;
+  }
+  .detail_description{
+    margin: 24px 0px 0px 0px;
+    text-align: left;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: SF-Regular;
+    color: #000000;
+  }
+
+
+  .detail_counters{
+    margin: 0px 0px 0px 0px;
+    display: flex;
+  }
+  .detail_counters_right{
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    float: right;
+    margin-left: auto; 
+  }
+  
+
+  .detail_coments{
+    margin: 0px 0px 0px 0px;
+    display: flex;
+  }
+
+
+  
+  .detail_counters_text{
+    margin: 3px 24px 0px 6px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Medium;
+    color: #818C99;
+  }
+  .detail_counters_text_right{
+    margin: 3px 0px 0px 6px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Regular;
+    color: #99A2AD;
+  }
+  .detail_coments_name{
+    margin: 3px 0px 0px 0px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Semibold;
+    color: #2C2D2E;
+  }
+  .detail_coments_time{
+    margin: 3px 0px 0px 6px;
+    text-align: left;
+    font-size: 13px;
+    line-height: 16px;
+    font-family: SF-Regular;
+    color: #818C99;
+  }
+  .detail_coments_text{
+    margin: -2px 0px 0px 0px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Regular;
+    color: #000000;
+  }
+  .detail_coments_edit_text{
+    margin: 6px 0px 0px 12px;
+    text-align: left;
+    font-size: 17px;
+    line-height: 22px;
+    font-family: SF-Regular;
+    color: #818C99;
+
+  }
+  .detail_box_prog_text_white1{
+    margin: 3px 10px 3px 3px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Semibold;
+    float: right;
+    margin-left: auto; 
+    color: #FFFFFF;
+  }
+  .detail_box_prog_text_white_center{
+    margin: 3px 0px 3px 0px;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Semibold;
+    float: right;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+  .detail_box_prog_text_white2{
+    margin: 3px 10px 3px 3px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Semibold;
+    float: right;
+    margin-left: auto; 
+    color: #818C99;
+  }
+
+  .detail_box_prog_text_white3{
+    margin: 3px 0px 3px 10px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: SF-Semibold;
+    color: #4BB34B;
+  }
+
+
+
+  
+
+  .detail_box {
+    width:100%;
+    height:24px;
+    background: #eaecf0;
+    border-radius: 6px;
+  }
+  .detail_box_green {
+    width: 0;
+    height:24px;
+    background: #4BB34B;
+    border-radius: 6px;
+    transition: all 0.1s;
+  }
+
+  .detail_box_prog_white1 {
+    width:30%;
+    height:24px;
+    background: #4BB34B;
+    border-radius: 6px;
+  }
+
+  
+  
+  .detail_coment_div{
+    margin: 12px;
+  }
+
+  .detail_coment_avatar{
+    margin: 0px 12px 12px 0px;
+  }
+  .detail_coment_div2{
+    margin: 0px 0px 12px 0px;
+
+  }
+
+  .detail_coment_div3{
+    margin: 0px 0px 0px 8px;
+    width: -webkit-fill-available;
+    background: #F2F3F5;
+    /* Light / Input Border */
+
+    border: 1px solid #E1E3E6;
+    box-sizing: border-box;
+    border-radius: 18px;
+  }
+
+
+  
+
+  .detail_hr{
+    margin: 12px 0px 12px 0px;
+    height:1px;
+    border-width:0;
+    color:#D7D8D9;
+    background-color:#D7D8D9
+  }
+
+  .detail_comment_like{
+    float: right;
+    margin-left: auto; 
+  }
+
+  .bottom_progress{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: white;
+  }
+  .bottom_progress_line{
+    background: #D7D8D9;
+    height: 1px;
+    margin-left: -12px;
+    margin-right: -12px;
+    width: calc(100% + 24px);
+    margin-bottom: 13px;
+  
+  }
+  .green_help_btn{
+    border : none;
+    background: #4BB34B;
+    color: white;
+    padding: 8px 16px;
+  }
+  .green_bg_progress{
+    background: #4BB34B;
+  }
+

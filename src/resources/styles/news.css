@@ -1,0 +1,67 @@
+.news_item{
+    background: white;
+    margin-bottom: 10px;
+}
+.news_item_avatar{
+    margin: 8px 8px 8px 12px;
+    height: 44px;
+    width: 44px;
+}
+.news_content{
+    background: #EBEDF0;
+    min-height: calc(100vh - 56px);
+}
+.news_name_title{
+    font-size: 15px;
+    line-height: 20px;
+    color: #2C2D2E;
+    margin-top: 12px;
+    font-family: SF-Medium;
+}
+.new_time{
+    font-size: 12px;
+    line-height: 14px;
+    color: #818C99;
+
+}
+.news_more{
+    margin-top: 4px;
+    width: 44px;
+    height: 44px;
+}
+.news_description_text{
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+    margin: 4px 12px 12px 12px;
+    max-height: 40px;
+    overflow: hidden;
+}
+.line_bot_0{
+    margin-bottom: 0px;
+}
+.line_bg{
+    background: white;
+}
+.new_item_details{
+    padding: 10px 12px;
+}
+.news_item_help{
+    opacity: 1;
+}
+.progress_view{
+    background: #3F8AE0;
+    height: 4px;
+    border-radius: 2px;
+    width: 0px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: all 0.1s;
+}
+.podcasts_bg{
+    background: white;
+}
+.ling_bot_4{
+    margin-bottom: 4px;
+}

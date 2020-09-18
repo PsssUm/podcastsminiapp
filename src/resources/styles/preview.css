@@ -1,0 +1,52 @@
+.preview_container{
+    padding: 0px;
+}
+.preview_title{
+    font-size: 17px;
+    line-height: 22px;
+    color: #000000;
+    font-family: SF-Semibold;
+    margin-top: 6px;
+}
+.group_text{
+    font-size: 12px;
+    line-height: 14px;
+    color: #4986CC;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-family: SF-Medium;
+}
+.duration_preview_text{
+    font-size: 12px;
+    line-height: 14px;
+    color: #818C99;
+}
+.preview_desc_title{
+    font-size: 17px;
+    line-height: 22px;
+    color: #000000;
+    font-family: SF-Semibold;
+}
+.preview_container_desc{
+    padding: 8px 12px 0px 12px;
+}
+.preview_desc_text{
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 13px;
+    margin-bottom: 18px
+}
+.preview_title_bot{
+    margin-bottom: 9px;
+}
+.timecode_preview_item_time{
+    font-size: 17px;
+    line-height: 22px;
+    color: #4986CC;
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+.timecode_preview_item_title{
+    color: black;
+}
