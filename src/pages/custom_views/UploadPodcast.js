@@ -70,7 +70,7 @@ class UploadPodcast extends React.Component {
     render() {
         return (
             <div id="podcastContainer">
-                <input id="fileInput" className="custom-file-input hover" type="file" accept=".mp3" onChange={this.fileChangedHandler} style={{ display: "none" }} ref={this.fileUpload}/>
+                <input id="fileInput" className="custom-file-input hover" type="file" accept="audio/mp3" onChange={this.fileChangedHandler} style={{ display: "none" }} ref={this.fileUpload}/>
                 <audio style={{display : 'none'}} id="audio"></audio>
                 {!this.state.isPickedPodcast ? 
                 <div className="upload_podcast_container">
